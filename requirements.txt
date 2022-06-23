@@ -1,0 +1,7 @@
+imgaug==0.4.0
+matplotlib==3.2.1
+numpy==1.19.5
+opencv-python==4.6.0.66
+tensorboard==2.7.0
+tqdm==4.60.0
+transforms3d==0.3.1
