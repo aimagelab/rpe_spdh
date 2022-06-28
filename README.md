@@ -4,7 +4,7 @@ This is the official PyTorch implementation of the publication:
 
 *A. Simoni, S. Pini, G. Borghi, R. Vezzani* </br>
 **Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps** </br>
-_Under review_
+*In IEEE Robotics and Automation Letters (RA-L), 2022*
 
 <p align="center" width="100%">
   <img src="./images/model.png" width="100%" />
@@ -96,31 +96,17 @@ python test_spdh.py --config <path-to-config> --resume <path-to-weights>
 * **Guido Borghi** - [gdubrg](https://github.com/gdubrg)
 * **Roberto Vezzani** - [robervez](https://github.com/robervez)
 
-[//]: # (## Citation)
+## Citation
+If you find this repository useful for your research, please cite the following paper:
+```bibtex
+@article{simoni2022semi,
+  title={Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps},
+  author={Simoni, Alessandro and Pini, Stefano and Borghi, Guido and Vezzani, Roberto},
+  journal={IEEE Robotics and Automation Letters},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
-[//]: # (If you find this repository useful for your research, please cite the following paper:)
-
-[//]: # (```bibtex)
-
-[//]: # (@inproceedings{simoni2021multi,)
-
-[//]: # (  title={Multi-Category Mesh Reconstruction From Image Collections},)
-
-[//]: # (  author={Simoni, Alessandro and Pini, Stefano and Vezzani, Roberto and Cucchiara, Rita},)
-
-[//]: # (  booktitle={2021 International Conference on 3D Vision &#40;3DV&#41;},)
-
-[//]: # (  pages={1321--1330},)
-
-[//]: # (  year={2021},)
-
-[//]: # (  organization={IEEE})
-
-[//]: # (})
-
-[//]: # (```)
-
-[//]: # ()
-[//]: # (## License)
-
-[//]: # (This project is licensed under the MIT License - see the [LICENSE]&#40;LICENSE&#41; file for detail)
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for detail
