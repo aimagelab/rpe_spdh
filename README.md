@@ -99,12 +99,15 @@ python test_spdh.py --config <path-to-config> --resume <path-to-weights>
 ## Citation
 If you find this repository useful for your research, please cite the following paper:
 ```bibtex
-@article{simoni2022semi,
-  title={Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation from Depth Maps},
+@article{9837426,
   author={Simoni, Alessandro and Pini, Stefano and Borghi, Guido and Vezzani, Roberto},
-  journal={IEEE Robotics and Automation Letters},
+  journal={IEEE Robotics and Automation Letters}, 
+  title={Semi-Perspective Decoupled Heatmaps for 3D Robot Pose Estimation From Depth Maps}, 
   year={2022},
-  publisher={IEEE}
+  volume={7},
+  number={4},
+  pages={11569-11576},
+  doi={10.1109/LRA.2022.3193225}
 }
 ```
 
