@@ -23,48 +23,48 @@ Released config files and pre-trained models for all main paper experiments.
 <td align="center">7.5</td>
 <td align="center">51.80</td>
 <td align="center">Table 2</td>
-<td align="center"><a href="https://drive.google.com/file/d/1xsyHS2xn5Lx37kOQ1n409z2M25SgzULk/view?usp=sharing">config</a></td>
-<td align="center"><a href="https://drive.google.com/file/d/1SmLuapbdRFnMsL0Td36aQALjGI9Wswqn/view?usp=sharing">model</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/HRNet-32 7.5mm/HRNet_test_real.json">config</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/HRNet-32 7.5mm/best_checkpoint.pth">model</a></td>
 </tr>
 <tr>
 <td align="center">HRNet-32</td>
 <td align="center">15</td>
 <td align="center">53.75</td>
 <td align="center">Table 1</td>
-<td align="center"><a href="https://drive.google.com/file/d/1enXUcbppkCQ33aToc2B2-JhN1ona4EVz/view?usp=sharing">config</a></td>
-<td align="center"><a href="https://drive.google.com/file/d/186mdY1env8iw04C-skQf0040rDDkRywQ/view?usp=sharing">model</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 1/HRNet-32/HRNet_test_real.json">config</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 1/HRNet-32/best_checkpoint.pth">model</a></td>
 </tr>
 <tr>
 <td align="center">HRNet-32</td>
 <td align="center">30</td>
 <td align="center">43.66</td>
 <td align="center">Table 2</td>
-<td align="center"><a href="https://drive.google.com/file/d/1aD2dm0IXdgEfX69C5tH6J_Uimt89STa3/view?usp=sharing">config</a></td>
-<td align="center"><a href="https://drive.google.com/file/d/1gaa6wzRCzQzglnxgnipkz9I9bT1XJpcG/view?usp=sharing">model</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/HRNet-32 30mm/HRNet_test_real.json">config</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/HRNet-32 30mm/best_checkpoint.pth">model</a></td>
 </tr>
 <tr>
 <td align="center">Stacked HG (2 HG)</td>
 <td align="center">7.5</td>
 <td align="center">46.83</td>
 <td align="center">Table 2</td>
-<td align="center"><a href="https://drive.google.com/file/d/1LoN1NbuMqtnQmuPO9j5s6Bc0L73TwD59/view?usp=sharing">config</a></td>
-<td align="center"><a href="https://drive.google.com/file/d/1p7QxOPf8MZVGw6sGZhCSOUX0KX_R_vms/view?usp=sharing">model</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/Stacked HG 7.5mm/HRNet_test_real.json">config</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/Stacked HG 7.5mm/best_checkpoint.pth">model</a></td>
 </tr>
 <tr>
 <td align="center">Stacked HG (2 HG)</td>
 <td align="center">15</td>
 <td align="center">43.94</td>
 <td align="center">Table 2</td>
-<td align="center"><a href="https://drive.google.com/file/d/15yPBPvL9YH6IIc6LdFYq3UDFY9bSArqh/view?usp=sharing">config</a></td>
-<td align="center"><a href="https://drive.google.com/file/d/19pAHgUJtQ5TPY0rY5qQpePMIHm44Ak9K/view?usp=sharing">model</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/Stacked HG 15mm/HRNet_test_real.json">config</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/Stacked HG 15mm/best_checkpoint.pth">model</a></td>
 </tr>
 <tr>
 <td align="center">Stacked HG (2 HG)</td>
 <td align="center">30</td>
 <td align="center">44.55</td>
 <td align="center">Table 2</td>
-<td align="center"><a href="https://drive.google.com/file/d/14s4iNUHMC1EqTE2IUA-Z4OPSG5zTlt7H/view?usp=sharing">config</a></td>
-<td align="center"><a href="https://drive.google.com/file/d/1bq4-XK_UgJ5HXFDaeKcGEOFcwQ59-J1h/view?usp=sharing">model</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/Stacked HG 30mm/HRNet_test_real.json">config</a></td>
+<td align="center"><a href="https://ailb-web.ing.unimore.it/publicfiles/drive/RA-L 2022 RPE/pretrained_weigths/SPDH/Table 2/Stacked HG 30mm/best_checkpoint.pth">model</a></td>
 </tr>
 </tbody>
 </table>
